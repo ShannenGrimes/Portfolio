@@ -150,6 +150,8 @@ footer {
 
 .work img {
     opacity: .8;
+    width: 200;
+    height: 200;
 }
 
 .work h3 { 
@@ -183,4 +185,6 @@ textarea
     border-radius: 50%;
     min-width: 100%;
   }
-  
+a#cap {
+    color: #fff;
+}
