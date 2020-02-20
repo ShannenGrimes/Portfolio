@@ -1,2 +1,2 @@
-# Portfolio
-This is an updated portfolio.
+# Updated Portfolio
+Welcome to my portfolio!
